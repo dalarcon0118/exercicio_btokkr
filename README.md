@@ -14,9 +14,9 @@ Desenvolver uma aplicação web simples que funcione como um **Catálogo de Prod
 
 As tecnologias específicas a serem utilizadas neste desafio são:
 
-* **Frontend:** **Angular** (com TypeScript)  
-* **Backend:** **Node.js** (com Express.js)  
-* **Base de Dados:** **MySQL**
+* **Frontend:** **Angular or react or vue** (com TypeScript)  
+* **Backend:** **Node.js** (com Nest.js)  
+* **Base de Dados:** **MySQL or Mongo**
 
 #### **1\. Base de Dados (MySQL)**
 
