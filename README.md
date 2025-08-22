@@ -40,7 +40,7 @@ As tecnologias específicas a serem utilizadas neste desafio são:
 * **Manejo de Erros:** Implementar um manejo robusto de erros (erros `404 Not Found`, `400 Bad Request`, `500 Internal Server Error`, etc.), retornando mensagens descritivas em formato JSON.  
 * **Validação:** Implementar validação de entrada para os parâmetros da requisição e corpo (ex: garantir que `id` é um UUID válido).
 
-#### **3\. Frontend (Angular)**
+#### **3\. Frontend ()**
 
 * **Linguagem:** **TypeScript**.  
 * **Componentes:**  
