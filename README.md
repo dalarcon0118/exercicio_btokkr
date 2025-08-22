@@ -18,7 +18,7 @@ As tecnologias específicas a serem utilizadas neste desafio são:
 * **Backend:** **Node.js** (com Nest.js)  
 * **Base de Dados:** **MySQL or Mongo**
 
-#### **1\. Base de Dados (MySQL)**
+#### **1\. Base de Dados (MySQL or Mongo)**
 
 * **Schema:** Projetar um schema de base de dados para armazenar as informações dos produtos. No mínimo, cada produto deve ter os seguintes atributos:  
   * `id` (identificador único, UUID)  
