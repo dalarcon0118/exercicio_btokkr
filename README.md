@@ -1,6 +1,7 @@
+
 **Exercício Técnico: Catálogo de Produtos Simples**
 
-Este exercício busca avaliar a capacidade do candidato para projetar, implementar e integrar componentes de **frontend**, **backend** e **base de dados**, além de sua habilidade para documentar e preparar um projeto para a execução e deploy.
+Este exercício busca avaliar a capacidade do candidato para projetar, implementar e integrar componentes de **frontend**, **backend** e **base de dados**, além de sua habilidade para documentar e preparar um projeto para a execução e deploy.Tem ate 3 dias uteis pra entregar uma solução, pode mandar sem estar funcionando completamente mas o mais importante e deixar partes funcionando , vai-se valorizar a capacidade de trabalhar de forma iterativa e incremental.
 
 ---
 
