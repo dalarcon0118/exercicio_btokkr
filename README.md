@@ -1,3 +1,4 @@
+Sobre a brokkr: Somos uma start up de tecnologia com um producto baseado na gestao dos escritorios de investimentos, Nossa visão e criar a melhor ferramneta de gestão pra asesores no brasil, focados em o principio de IA first.  
 
 **Exercício Técnico: Catálogo de Produtos Simples**
 
